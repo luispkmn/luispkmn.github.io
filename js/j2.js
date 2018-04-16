@@ -2,11 +2,11 @@ var opa;
 var opb;
 var operacion;
 var resul;
+var i=0;
 
 resul = document.getElementById('resultado');
 resul.style.color = 'brown';
 function cont (){
-	var i;
 	function clo(){
 		i++;
 	}
